@@ -1,0 +1,3 @@
+rootProject.name = 'the_learning_center_1868'
+
+include ':app'
